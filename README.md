@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shikhar72
 - 👀 I’m interested in learning new skills & taking new roles 
-- 🌱 I’m currently working as a data analyst in TMTL Eicher 
+- 🌱 I’m currently working as a data Scientist in TMTL Eicher 
 - 📫 How to reach me : 9891290562 or Shikharsinha0604@gmail.com
